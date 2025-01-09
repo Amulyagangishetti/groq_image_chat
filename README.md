@@ -2,7 +2,7 @@
 Image Query and Caption Generator
 # ImageQueryCaption
 
-A Python-based application that generates captions and answers user queries about images. It uses Groq for processing image URLs and queries, and Gradio for building the user interface.
+A Python-based application that generates captions and answers user queries about images. It uses **LLAMA** (Large Language Model Meta AI) via Groq for processing image URLs and queries, and Gradio for building the user interface.
 
 ## Features
 - Provide an image URL and get a caption for it.
